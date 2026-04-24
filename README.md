@@ -1,6 +1,6 @@
 # React Native Viewer
 
-React Native Viewer là ứng dụng macOS lấy cảm hứng từ Flipper, dùng để kiểm tra app React Native bằng giao diện desktop native, gọn và tập trung vào nhu cầu debug thực tế.
+React Native Viewer là ứng dụng macOS dùng để kiểm tra app React Native bằng giao diện desktop native, gọn và tập trung vào nhu cầu debug thực tế.
 
 ![macOS](https://img.shields.io/badge/macOS-14%2B-black?style=flat-square)
 ![Xcode](https://img.shields.io/badge/Xcode-26%2B-blue?style=flat-square)
@@ -18,7 +18,7 @@ React Native Viewer là ứng dụng macOS lấy cảm hứng từ Flipper, dùn
 ## Vì sao dùng React Native Viewer
 
 - Ứng dụng macOS native
-- Phong cách làm việc tương tự Flipper
+- Giao diện và luồng làm việc tập trung cho debug React Native
 - Hỗ trợ dữ liệu từ React Native DevTools và `rn_network_debugger`
 - Phù hợp để debug hằng ngày cho app React Native
 
